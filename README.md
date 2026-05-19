@@ -1,3 +1,4 @@
+
 # 🪙 PiagetCoin — Plataforma Escolar de Recompensas
 
 Site para professores enviarem **PGT (Piagetcoin)** para alunos diretamente na blockchain Ethereum (Sepolia Testnet), sem precisar digitar endereços manualmente.
